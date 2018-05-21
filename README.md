@@ -1,14 +1,15 @@
 # vendor
 
-> A Vue.js project
+> A Vue.js simple-component project
+> import vuecountup.vue
+> <vue-count-up :end="20000" :duration='10'></vue-count-up> 
 
-## Build Setup
+## Run Setup
 
 ``` bash
-# install dependencies
+1. install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+2. serve with hot reload at localhost:8080
 npm run dev
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).

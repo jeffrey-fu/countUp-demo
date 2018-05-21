@@ -1,10 +1,14 @@
 # vendor
 
-> A Vue.js simple-component project
-> import vuecountup.vue
-> <vue-count-up :end="20000" :duration='10'></vue-count-up> 
+>  A Vue.js simple-component project
 
-## Run Setup
+>  import vuecountup.vue
+
+# useage
+
+> tagname ' vue-count-up '
+
+# Run Setup
 
 ``` bash
 1. install dependencies
